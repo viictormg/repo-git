@@ -1,2 +1,0 @@
-# repo-git
-git course
